@@ -1,6 +1,6 @@
 [submodule "cookbooks/gecoscc-ui"]
 	path = cookbooks/gecosccui
-	url = https://github.com/gecos-team/cookbook-gecosccui.git
+	url = https://github.com/alfem/cookbook-gecosccui.git
 [submodule "cookbooks/gecoscc-chef-server"]
 	path = cookbooks/gecoscc-chef-server
 	url = https://github.com/gecos-team/gecoscc-chef-server-cookbook.git
